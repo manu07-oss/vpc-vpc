@@ -1,0 +1,1 @@
+https://medium.com/@manognavengala898/setting-up-a-vpc-with-public-and-private-subnets-nat-internet-gateway-and-route-table-on-aws-ebefd43414d5
